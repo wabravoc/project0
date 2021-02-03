@@ -10,13 +10,13 @@ div {
     border: 2px solid black;
 }
 
-@media (min-width: 730px) {
+@media (min-width: 1000px) {
     body {
         background-color:$colorbg ;
     }
 }
 
-@media (max-width: 729px) {
+@media (max-width: 990px) {
     body {
         background-color:$color2bg;
     }
