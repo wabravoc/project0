@@ -4,13 +4,13 @@ div {
   border: 2px solid black;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 730px) {
   body {
     background-color: white;
   }
 }
 
-@media (max-width: 599px) {
+@media (max-width: 729px) {
   body {
     background-color: #00eeff;
   }
