@@ -1,6 +1,6 @@
 # Project 0
 
-Web Programming with Python and JavaScript
+## Web Programming with Python and JavaScript
 
 The design of my website is based on funeral services.
 
